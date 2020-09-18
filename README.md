@@ -1,0 +1,1 @@
+You may use '--browser_name' option in command line to choose browser (chrome or firefox). Default meaning is 'chrome'. You must use '--language' option in command line to choose language for testing (for example, 'pytest -s --language=ru'). Default meaning for this option is None.
